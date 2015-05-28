@@ -16,6 +16,14 @@ h3 {
   color: #aaa;
 }
 
+.rails {
+  color: #b42738;
+}
+
+.node {
+  color: #90c53f;
+}
+
 section.wrap {
   width: 550px;
   padding: 50px;
